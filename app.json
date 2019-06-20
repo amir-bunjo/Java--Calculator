@@ -3,5 +3,10 @@
   "description": "Calcutor in java",
   "repository": "https://github.com/amir-bunjo/Java--Calculator.git",
   "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["java", "calculator"]
+  "keywords": ["java", "calculator"],
+  "buildpacks": [
+    {
+      "url": "https://github.com/stomita/heroku-buildpack-phantomjs"
+    }
+  ] 
 }
