@@ -5,6 +5,9 @@
   "logo": "https://node-js-sample.herokuapp.com/node.png",
   "keywords": ["java", "calculator"],
   "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
+    },    
    {
       "url": "heroku/java"
     }
