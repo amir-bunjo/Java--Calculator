@@ -1,0 +1,7 @@
+{
+  "name": "Calculator",
+  "description": "Calcutor in java",
+  "repository": "https://github.com/amir-bunjo/Java--Calculator.git",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["java", "calculator"]
+}
